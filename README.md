@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+DespaViewTool::Renderer.copyright 'Dom Des', 'All rights reserved'
+```
 
 ## Development
 
